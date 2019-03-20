@@ -1,0 +1,30 @@
+
+1. There must be a cursor
+2.After press button "send" should be dialog menu; This text should be displayed when you press the sandwich button without a filled field.
+3.You can not write anything, because it is disable;
+4.After press;
+5.There should be 2 raddioButtons.
+6. 2 radiobutton: 1) from thnx * All Checkbox.Enabled = FALSE;
+2) for checkboxList * CheckCount == 2 then disable another checkbox,
+! = 2 & no thnx! = TRUE from PASS;
+7. Deleted "if not accept no pass";
+8.There should be 2 RaddioButton;
+9.There should be one CheckBox;
+10.This checkBox should be in column;
+11. Current 3status: current default, yes / no;
+12.Use progressbar instead of checkbox;
+13.No, because there should be button.
+14.no
+15.no
+16.yes,In this example, the subordinate check boxes are selected, making their relationship to the selected option clear.
+17dropdown
+18.Delete word "align", "alignment"
+19.If you want to use a dropdown or to arrange it in a column
+20. The text field should be inactive, through the "all" option, if the page is not selected.
+21.A list box is a graphical control element that allows the user to select one or more items from a list contained within a static,
+multiple line text box.
+A drop-down list (abbreviated drop-down; also known as a drop-down menu; drop menu; pull-down list; picklist) is a graphical control element similar to a list box that allows the user to select one value. from a list.
+ When a drop-down list is inactive, it displays a single value.
+A combo box is a commonly used graphical user interface widget (or control).
+22. You can click on 5, or a tab.
+23 Click on the 3.delete to go through the list 3,30,31 of what happens right at 3.
